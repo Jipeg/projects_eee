@@ -49,7 +49,7 @@ long long binom(double n, double k){
 }
 
 int main(){
-	/*
+	
 	int N = 30;
 	cin >> N;
 	long long max = 1;
@@ -66,7 +66,8 @@ int main(){
 		cout << endl;
 	}
 	cout << "Max=" << max << " for k=" << k << endl;
-	*/
+	
+	/*
 	int M;
 	cin >> M;
 	for (int i = 25; i <= M; i++)
@@ -74,5 +75,5 @@ int main(){
 	
 	cout << INT_MAX << endl;
 	cout << LONG_LONG_MAX << endl;
-
+*/
 }
