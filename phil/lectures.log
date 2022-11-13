@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.10.25)  13 NOV 2022 15:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.10.25)  13 NOV 2022 16:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -316,25 +316,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 66.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 66.
- [3] [4] (./lectures.aux) ) 
+ [3] [4] [5] (./lectures.aux) ) 
 Here is how much of TeX's memory you used:
- 2012 strings out of 480726
- 26998 string characters out of 5907433
+ 2013 strings out of 480726
+ 27016 string characters out of 5907433
  317728 words of memory out of 5000000
- 18974 multiletter control sequences out of 15000+600000
+ 18975 multiletter control sequences out of 15000+600000
  411120 words of font info for 44 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  53i,6n,62p,780b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/sergei/.texlive2020/texmf-var/fonts/pk/ljfou
-r/lh/lh-t2a/larm1200.600pk> </home/sergei/.texlive2020/texmf-var/fonts/pk/ljfou
-r/lh/lh-t2a/labx1728.600pk> </home/sergei/.texlive2020/texmf-var/fonts/pk/ljfou
-r/lh/lh-t2a/larm1440.600pk> </home/sergei/.texlive2020/texmf-var/fonts/pk/ljfou
-r/lh/lh-t2a/larm2074.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb>
-Output written on lectures.pdf (4 pages, 69539 bytes).
+ </home/sergei/.texlive2020/texmf-var/fonts/pk/l
+jfour/lh/lh-t2a/larm1200.600pk> </home/sergei/.texlive2020/texmf-var/fonts/pk/l
+jfour/lh/lh-t2a/labx1728.600pk> </home/sergei/.texlive2020/texmf-var/fonts/pk/l
+jfour/lh/lh-t2a/larm1440.600pk> </home/sergei/.texlive2020/texmf-var/fonts/pk/l
+jfour/lh/lh-t2a/larm2074.600pk></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb>
+Output written on lectures.pdf (5 pages, 73243 bytes).
 PDF statistics:
- 201 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 210 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
